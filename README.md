@@ -18,7 +18,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/virtual-keyboard.git
+git clone (https://github.com/ShaikYakusha/virtual-keybord-using-hand-gesture.git)
 cd virtual-keyboard
 Create a Virtual Environment (Optional but Recommended)
 
