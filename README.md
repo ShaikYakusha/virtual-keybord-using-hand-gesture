@@ -25,7 +25,7 @@ The virtual keyboard system allows users to interact with their computers using 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/manmohanqqq/virtual-keyboard.git
+   git clone https://github.com/ShaikYakusha/virtual-keyboard.git
 Install the required dependencies:
 
 bash
