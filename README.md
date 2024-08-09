@@ -62,10 +62,3 @@ Performance Issues: Make sure you are running the script on a capable machine an
 Contributing
 Feel free to open issues or pull requests for improvements and bug fixes. Contributions are welcome!
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
-MediaPipe: MediaPipe Documentation
-OpenCV: OpenCV Documentation
-Pynput: Pynput Documentation
